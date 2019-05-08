@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Check Box</string>
+    <string name="kas_kaltas">Naujas daiktas?</string>
+    <string name="ar_tikrai_noriu">Ar tikrai noriu?</string>
+    <string name="result">Rezultatas</string>
+    <string name="ar_man_reikia">Ar man reikia?</string>
+    <string name="verdiktas">Verdiktas</string>
+    <string name="logotipas">Logotipas</string>
+</resources>
